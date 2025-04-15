@@ -1,4 +1,6 @@
-**# Food101**# Food Image Classification Using CNN
+**# Food101**
+
+# Food Image Classification Using CNN
 
 This project focuses on classifying and enhancing the accuracy of images across **101 food categories** using a **Convolutional Neural Network (CNN)**. By implementing various **feature extraction** and **model optimization** techniques, this work builds upon the methodologies outlined in the **Food-101** research paper.
 
